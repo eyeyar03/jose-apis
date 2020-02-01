@@ -1,0 +1,22 @@
+plugins {
+    // Apply the java plugin to add support for Java
+    id 'java'
+
+    // Apply the application plugin to add support for building an application
+    id 'application'
+}
+
+dependencies {
+    implementation 'com.nimbusds:nimbus-jose-jwt:8.5'
+
+    implementation 'org.bitbucket.b_c:jose4j:0.7.0'
+
+    compile 'com.google.guava:guava:23.0'
+
+    testCompile 'junit:junit:4.12'
+}
+
+// In this section you declare where to find the dependencies of your project
+repositories {
+    mavenCentral()
+}
