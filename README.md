@@ -1,4 +1,4 @@
-# Trying Java API's for JWE
+# Trying Java API's for JWS and JWE
 
 ## Java JWT
 Wiki: https://github.com/auth0/java-jwt
