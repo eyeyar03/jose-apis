@@ -1,5 +1,10 @@
 # Trying Java API's for JWE
 
+## Java JWT
+Wiki: https://github.com/auth0/java-jwt
+Version used: 3.8.3
+
+
 ## Nimbus JOSE+JWT 
 Wiki: https://bitbucket.org/connect2id/nimbus-jose-jwt/wiki/Home
 Version used: 8.5
@@ -9,7 +14,7 @@ Wiki: https://bitbucket.org/b_c/jose4j/wiki/Home
 Version used: 0.7.0
 
 ## Goals
-1. Learn how to generate JWE using the 2 libraries.
+1. Learn how to generate JWS and JWE using the 3 libraries.
 2. Which is easier to use?
 3. Which is more flexible and extensible?
 4. Which adheres more to the standards?
