@@ -1,17 +1,17 @@
 # Trying Java API's for JWS and JWE
 
 ## Java JWT
-Wiki: https://github.com/auth0/java-jwt
-Version used: 3.8.3
+- Wiki: https://github.com/auth0/java-jwt
+- Version used: 3.8.3
 
 
 ## Nimbus JOSE+JWT 
-Wiki: https://bitbucket.org/connect2id/nimbus-jose-jwt/wiki/Home
-Version used: 8.5
+- Wiki: https://bitbucket.org/connect2id/nimbus-jose-jwt/wiki/Home
+- Version used: 8.5
 
 ## jose.4.j
-Wiki: https://bitbucket.org/b_c/jose4j/wiki/Home
-Version used: 0.7.0
+- Wiki: https://bitbucket.org/b_c/jose4j/wiki/Home
+- Version used: 0.7.0
 
 ## Goals
 1. Learn how to generate JWS and JWE using the 3 libraries.
